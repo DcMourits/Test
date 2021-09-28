@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap");
+
+body,
+html {
+  height: 100%;
+}
+
+h1 {
+  font-size: 30px;
+  color: white;
+}
+.groen-tekst {
+  color: rgb(89, 177, 89);
+}
+.rode-tekst {
+  color: red;
+}
+.zwarte-achtergrond {
+  background-color: black;
+}
+
+#gastenboek {
+  font-size: 20px;
+}
+#gastenboek .rode-tekst {
+  font-style: italic;
+}
+body {
+  background-image: url(images/Achtergrond\ webstie\ Ctrl\ Create.jpg);
+  font-family: "Gemunu Libre", sans-serif;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
